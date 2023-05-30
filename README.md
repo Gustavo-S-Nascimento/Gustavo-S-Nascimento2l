@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 Buscando a melhora da minha trajetoria em programação ...
-- 👯 Estou interessado em colaborar com todos os tipos de projetos ...
+- 🌱 Buscando a melhora da minha trajetoria em programação
+- 👯 Estou interessado em colaborar com todos os tipos de projetos
 
