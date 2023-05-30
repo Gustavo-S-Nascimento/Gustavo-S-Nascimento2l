@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 📒 Currently working on all repositories to improve each one in my own way.
 
 <p align="center">
-<img src="https://img.shields.io/badge/Status-Developing-green"/>
+<img src="https://img.shields.io/badge/Status-Developing-blue"/>
 <img src="https://img.shields.io/discord/1112910912089751594"/>
 </p>
