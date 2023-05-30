@@ -7,4 +7,5 @@ Here are some ideas to get you started:
 -->
 - 🌱 Buscando a melhora da minha trajetoria em programação
 - 👯 Estou interessado em colaborar com todos os tipos de projetos
+- 📒 Atualmente trabalhando em todos os repositório para a melhora de cada um deles do meu jeito
 
