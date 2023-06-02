@@ -59,3 +59,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Gustavo-S-Nascimento">
+    <img src="https://komarev.com/ghpvc/?username=Gustavo-S-Nascimento&color=blueviolet&style=flat)" />
+  </a>
+</p>  
