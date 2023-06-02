@@ -7,7 +7,7 @@
   <a href="https://github.com/Gustavo-S-Nascimento" target="_blank">
     <img src="https://em-content.zobj.net/thumbs/120/sony/336/large-purple-circle_1f7e3.png" width="10" height="10">
   </a>
-  <i>Student at Digital College, an educational center</i>
+  <i>Student at Digital College, an educational hub</i>
   <a href="https://github.com/Gustavo-S-Nascimento" target="_blank">
     <img src="https://em-content.zobj.net/thumbs/120/sony/336/large-purple-circle_1f7e3.png" width="10" height="10">
   </a>
