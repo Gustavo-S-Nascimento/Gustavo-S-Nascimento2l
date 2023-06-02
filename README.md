@@ -39,6 +39,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3">
   </a>
   <a href="https://github.com/Gustavo-S-Nascimento" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
+  </a>
+  <a href="https://github.com/Gustavo-S-Nascimento" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux">
   </a>
 </p>
@@ -65,6 +68,11 @@
     <img src="https://img.shields.io/badge/DuoLingo-blueviolet?style=for-the-badge&logo=duolingo&logoColor=white" target="_blank">
   </a>
  </p>
+  
+  <p align="center">
+ <a href="https://github.com/Gustavo-S-Nascimento" target="_blank">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gustavo-S-Nascimento&layout=compact&langs_count=8&theme=dracula"/>
+</a>
 
 <p align="center">
   <a href="https://github.com/Gustavo-S-Nascimento">
