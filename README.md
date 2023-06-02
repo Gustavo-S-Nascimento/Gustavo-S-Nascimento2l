@@ -1,23 +1,60 @@
-# Hello, my name is Gustavo !
-## Welcome to my GitHub profile 👋
-<a href="https://www.linkedin.com/in/Gustavo-S-Nascimento-Dev/" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png" width="80" height="26" />
+<h1 align="center">
+  Hello, my name is Gustavo! 👋
+</h1>
 
-<!--
-**Gustavo-S-Nascimento/Gustavo-S-Nascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-- Student at Digital College, an educational center.
-- Studying FullStack development.
-- Living in Northeast Brazil.
+<p align="center">
+  <a href="https://github.com/Gustavo-S-Nascimento" target="_blank">
+    <img src="https://em-content.zobj.net/thumbs/120/sony/336/large-purple-circle_1f7e3.png" width="10" height="10">
+  </a>
+  <i>Student at Digital College, an educational center</i>
+  <a href="https://github.com/Gustavo-S-Nascimento" target="_blank">
+    <img src="https://em-content.zobj.net/thumbs/120/sony/336/large-purple-circle_1f7e3.png" width="10" height="10">
+  </a>
+  <br>
+  <a href="https://github.com/Gustavo-S-Nascimento" target="_blank">
+    <img src="https://em-content.zobj.net/thumbs/120/sony/336/large-purple-circle_1f7e3.png" width="10" height="10">
+  </a>
+  <i>Studying FullStack development</i>
+  <a href="https://github.com/Gustavo-S-Nascimento" target="_blank">
+    <img src="https://em-content.zobj.net/thumbs/120/sony/336/large-purple-circle_1f7e3.png" width="10" height="10">
+  </a>
+  <br>
+  <a href="https://github.com/Gustavo-S-Nascimento" target="_blank">
+    <img src="https://em-content.zobj.net/thumbs/120/sony/336/large-purple-circle_1f7e3.png" width="10" height="10">
+  </a>
+  <i>Living in Northeast Brazil</i>
+  <a href="https://github.com/Gustavo-S-Nascimento" target="_blank">
+    <img src="https://em-content.zobj.net/thumbs/120/sony/336/large-purple-circle_1f7e3.png" width="10" height="10">
+  </a>
+</p>
 
-**Currently learning:**
+<h3 align="center">Currently learning:</h3>
+<br>
+<p align="center">
+  <a href="https://github.com/Gustavo-S-Nascimento" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5">
+  </a>
+  <a href="https://github.com/Gustavo-S-Nascimento" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3">
+  </a>
+  <a href="https://github.com/Gustavo-S-Nascimento" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux">
+  </a>
+</p>
 
-<a href="https://github.com/Gustavo-S-Nascimento" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-
-**Contacts:**
-<div>
-<a href="https://www.instagram.com/gu.santoz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:Guga_Vine@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://discord.com/channels/@me/428358997188542465" target="_blank"><img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-</div>
-
+<h3 align="center">Contacts:</h3>
+<br>
+<p align="center">
+  <a href="https://www.instagram.com/gu.santoz/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:Guga_Vine@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-blueviolet?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://discord.com/channels/@me/428358997188542465" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/gustavo-s-nascimento-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</p>
