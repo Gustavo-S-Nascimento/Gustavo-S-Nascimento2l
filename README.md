@@ -1,8 +1,9 @@
 # Hello, my name is Gustavo !
 ## Welcome to my GitHub profile 👋
+<a href="https://www.linkedin.com/in/Gustavo-S-Nascimento-Dev/" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png" width="80" height="26" />
+
 <!--
 **Gustavo-S-Nascimento/Gustavo-S-Nascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -->
 - Student at Digital College, an educational center.
