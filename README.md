@@ -43,7 +43,7 @@
   </a>
 </p>
 
-<h3 align="center">Contacts:</h3>
+<h3 align="center">Social Medias:</h3>
 <br>
 <p align="center">
   <a href="https://www.instagram.com/gu.santoz/" target="_blank">
@@ -58,7 +58,10 @@
   <a href="https://www.linkedin.com/in/gustavo-s-nascimento-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-</p>
+   <a href="https://www.freecodecamp.org/Gustavo-S" target="_blank">
+    <img src="https://img.shields.io/badge/FreeCodeCamp-blueviolet?style=for-the-badge&logo=freecodecamp&logoColor=white" target="_blank">
+  </a>
+ </p>
 
 <p align="center">
   <a href="https://github.com/Gustavo-S-Nascimento">
