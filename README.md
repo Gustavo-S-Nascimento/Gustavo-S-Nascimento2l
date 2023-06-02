@@ -1,5 +1,6 @@
 <h1 align="center">
-  Hello, my name is Gustavo! 👋
+  Hello, my name is Gustavo! <a href="https://github.com/Gustavo-S-Nascimento" target="_blank">
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50" height="50">
 </h1>
 
 <p align="center">
