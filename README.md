@@ -20,6 +20,3 @@ Here are some ideas to get you started:
 <a href = "https://discord.com/channels/@me/428358997188542465" target="_blank"><img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Status-Developing-blue"/>
-</p>
