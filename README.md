@@ -61,6 +61,9 @@
    <a href="https://www.freecodecamp.org/Gustavo-S" target="_blank">
     <img src="https://img.shields.io/badge/FreeCodeCamp-blueviolet?style=for-the-badge&logo=freecodecamp&logoColor=white" target="_blank">
   </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/DuoLingo-blueviolet?style=for-the-badge&logo=duolingo&logoColor=white" target="_blank">
+  </a>
  </p>
 
 <p align="center">
