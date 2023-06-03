@@ -50,22 +50,22 @@
 <br>
 <p align="center">
   <a href="https://www.instagram.com/gu.santoz/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:Guga_Vine@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-blueviolet?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-blueviolet?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
   <a href="https://discord.com/channels/@me/428358997188542465" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/gustavo-s-nascimento-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
    <a href="https://www.freecodecamp.org/Gustavo-S" target="_blank">
-    <img src="https://img.shields.io/badge/FreeCodeCamp-blueviolet?style=for-the-badge&logo=freecodecamp&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/FreeCodeCamp-blueviolet?style=for-the-badge&logo=freecodecamp&logoColor=white" >
   </a>
   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/DuoLingo-blueviolet?style=for-the-badge&logo=duolingo&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/DuoLingo-blueviolet?style=for-the-badge&logo=duolingo&logoColor=white">
   </a>
  </p>
   
