@@ -78,4 +78,11 @@
   <a href="https://github.com/Gustavo-S-Nascimento">
     <img src="https://komarev.com/ghpvc/?username=Gustavo-S-Nascimento&color=blueviolet&style=flat)" />
   </a>
-</p>  
+</p>
+
+<h2 align="center">Support me<h2/>
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/thepascal" target="_blank"><img src="https://media2.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif" width="200" />
+</p>
+
